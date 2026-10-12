@@ -1,0 +1,25 @@
+# Dependencies & Build
+node_modules
+dist
+dist-ssr
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+*.db
+fraud_analytics.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment & Editor
+.env
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
